@@ -1,6 +1,6 @@
 ### hey all!
 
-i do homebrew tm
+i do stuff
 
 twitter: @crazynoob458
 
