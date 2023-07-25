@@ -1,6 +1,6 @@
 ### hey all!
 
-i do stuff
+i do stuff sproadically
 
 twitter: dont have one anymore
 
