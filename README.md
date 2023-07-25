@@ -2,6 +2,9 @@
 
 i do stuff sproadically
 
+i can code in python
+trying to learn swift and rust in the most hopeless way possible
+
 twitter: dont have one anymore
 
 mastodon: @crazynoob458@mas.to
