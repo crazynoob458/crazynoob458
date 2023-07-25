@@ -2,7 +2,9 @@
 
 i do stuff
 
-twitter: @crazynoob458
+twitter: dont have one anymore
+
+mastodon: @crazynoob458@mas.to
 
 website: https://crazynoob458.github.io
 
