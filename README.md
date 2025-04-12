@@ -9,6 +9,6 @@ twitter: dont have one anymore
 
 mastodon: @crazynoob458@mas.to
 
-website: https://crazynoob458.github.io
+website: https://konkon.moe
 
 ![OS](https://img.shields.io/badge/OS-Arch-blue) ![OS](https://img.shields.io/badge/OS-MacOS-blue)
