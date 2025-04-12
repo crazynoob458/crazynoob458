@@ -2,8 +2,7 @@
 
 i do stuff sproadically
 
-i can code in python
-trying to learn swift and rust in the most hopeless way possible
+I am a gamedev! [citation needed]
 
 twitter: dont have one anymore
 
